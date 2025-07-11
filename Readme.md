@@ -9,7 +9,10 @@
 
 ## 🧠 About Me
 
-Hey there! I'm **Mohammed Irfan I**, a creative problem-solver, full-stack developer, and AI tinkerer from 🇮🇳. I love mixing logic with design to build modern, smooth, and impactful web apps that actually *do stuff*. Whether it’s frontend magic or backend brains, I’m in.
+Hey there! I'm **Mohammed Irfan I**, a full-stack developer and AI enthusiast. I enjoy solving problems using code and love creating websites and apps that are useful, modern, and easy to use.
+
+I work on both frontend and backend, and I like making projects that are smooth, responsive, and help people in real life. From creative tools to smart AI apps — I enjoy building things that matter.
+
 
 ---
 
@@ -23,7 +26,6 @@ Hey there! I'm **Mohammed Irfan I**, a creative problem-solver, full-stack devel
 
 ## 💼 Projects I Flex
 
-- 🧠 **Jarvis AI Assistant** – Human-like chatbot with voice, memory, and offline AI models
 - 🎨 **SharpToolKit** – All-in-one creative suite: image tools, memes, PDF wizardry
 - 🏗 **IMS Construction** – Interactive site with GSAP, scroll animations, and backend tools
 - 🌈 **Virtual Painter** – Upload buildings and paint walls with AI color segmentation
@@ -51,7 +53,7 @@ Hey there! I'm **Mohammed Irfan I**, a creative problem-solver, full-stack devel
 |----------|------|
 | 🌐 Portfolio | [irfan-portfolio.com](https://your-portfolio.com) |
 | 📨 Email | [irfanmhd.0706@gmail.com](mailto:irfanmhd.0706@gmail.com) |
-| 🔗 LinkedIn | [linkedin.com/in/irfan0706](https://linkedin.com/in/YOUR-LINKEDIN) |
+| 🔗 LinkedIn | [linkedin.com/in/irfan0706](https://www.linkedin.com/in/mohammed-irfan-93a352341/) |
 
 
 
