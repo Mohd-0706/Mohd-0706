@@ -1,0 +1,75 @@
+<h1 align="center">🚀 Hey, I'm Mohammed Irfan I</h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 AI Explorer | ⚙️ Product Builder</h3>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="320" />
+</p>
+
+---
+
+## 🧠 About Me
+
+Hey there! I'm **Mohammed Irfan I**, a creative problem-solver, full-stack developer, and AI tinkerer from 🇮🇳. I love mixing logic with design to build modern, smooth, and impactful web apps that actually *do stuff*. Whether it’s frontend magic or backend brains, I’m in.
+
+---
+
+## 🔧 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,firebase,git,github,vscode" />
+</p>
+
+---
+
+## 💼 Projects I Flex
+
+- 🧠 **Jarvis AI Assistant** – Human-like chatbot with voice, memory, and offline AI models
+- 🎨 **SharpToolKit** – All-in-one creative suite: image tools, memes, PDF wizardry
+- 🏗 **IMS Construction** – Interactive site with GSAP, scroll animations, and backend tools
+- 🌈 **Virtual Painter** – Upload buildings and paint walls with AI color segmentation
+- 💌 **Bulk Email Sender** – Flask app with SMTP validation, Excel support & delivery reports
+- 🎁 **SHAZÉ Glitz** – Luxury gifting site with modals, filters, and rich frontend design
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-0706&show_icons=true&theme=tokyonight&count_private=true&hide=issues&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-0706&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | [irfan-portfolio.com](https://your-portfolio.com) |
+| 📨 Email | [irfanmhd.0706@gmail.com](mailto:irfanmhd.0706@gmail.com) |
+| 🔗 LinkedIn | [linkedin.com/in/irfan0706](https://linkedin.com/in/YOUR-LINKEDIN) |
+
+
+
+---
+
+
+## 🎯 Currently Focusing On:
+
+- Building an **AI-first Chatbot**
+- Launching **mini SaaS tools** for devs & designers
+- Leveling up AI/ML knowledge & real-world deployment skills
+
+---
+
+## ✨ Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
+</p>
+
+<p align="center"><i>"I don't just write code. I build possibilities."</i></p>
