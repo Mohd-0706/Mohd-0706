@@ -19,7 +19,7 @@ I work on both frontend and backend, and I like making projects that are smooth,
 ## 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,firebase,git,github,vscode" />
 </p>
 
 ---
