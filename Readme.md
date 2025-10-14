@@ -47,7 +47,7 @@ I work on both frontend and backend, and I like making projects that are smooth,
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [irfan-portfolio.com](https://your-portfolio.com) |
+| 🌐 Portfolio | [irfan-portfolio.com](https://irfanbio.netlify.app) |
 | 📨 Email | [irfanmhd.0706@gmail.com](mailto:irfanmhd.0706@gmail.com) |
 | 🔗 LinkedIn | [linkedin.com/in/irfan0706](https://www.linkedin.com/in/mohammed-irfan-93a352341/) |
 
