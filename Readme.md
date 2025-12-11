@@ -35,14 +35,6 @@ I work on both frontend and backend, and I like making projects that are smooth,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-0706&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🌍 Let's Connect
 
 | Platform | Link |
