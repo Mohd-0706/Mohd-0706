@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey, I'm Mohammed Irfan I</h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 AI Explorer | ⚙️ Product Builder</h3>
+<h3 align="center">💻 Front-end Developer | 🧠 AI Explorer | ⚙️ Product Builder</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="320" />
@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-Hey there! I'm **Mohammed Irfan I**, a full-stack developer and AI enthusiast. I enjoy solving problems using code and love creating websites and apps that are useful, modern, and easy to use.
+Hey there! I'm **Mohammed Irfan I**, a Front-end developer and AI enthusiast. I enjoy solving problems using code and love creating websites and apps that are useful, modern, and easy to use.
 
 I work on both frontend and backend, and I like making projects that are smooth, responsive, and help people in real life. From creative tools to smart AI apps — I enjoy building things that matter.
 
